@@ -1,0 +1,11 @@
+.NavBar{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: gray;
+    font-weight: bold;
+    font-size: larger;
+}
+.link{
+    color: white;
+    text-decoration: none;
+}
